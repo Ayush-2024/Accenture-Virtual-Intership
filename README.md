@@ -5,7 +5,7 @@
 This project was completed during my virtual internship as a Data Analyst at Accenture. The objective was to analyze data provided by the client, **Social Buzz**, and derive actionable insights on the popularity of their content categories. The project involved using various data analysis and visualization techniques to answer critical business questions.
 
 ### Key Details:
-- **Role:** Data Analytics amd Visualization  
+- **Role:** Data Analytics and Visualization  
 - **Client:** Social Buzz  
 - **Project Goal:** Analyze content popularity to identify the top 5 categories with the largest popularity based on reaction scores.
 
