@@ -1,4 +1,3 @@
-# Accenture-Virtual-Intership
 # Social Buzz Data Analysis
 
 ## Project Overview
